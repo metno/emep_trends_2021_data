@@ -6,4 +6,5 @@
 4,vmrisop,DE0043G,Hohenpeissenberg,47.8014984131,11.009619,992.0,nmol mol-1,monthly,ACTRIS EMEP GAW-WDCRG;ACTRIS EMEP GAW-WDCGG-node,air
 5,vmrisop,FI0050R,Hyytiälä,61.85,24.283333,377.8,nmol mol-1,monthly,ACTRIS EMEP GAW-WDCRG,air
 6,vmrisop,NL0009R,Kollumerwaard,53.333889,6.277222,1.0,nmol mol-1,monthly,EMEP,air
-7,vmrisop,FI0096G,Pallas (Sammaltunturi),67.973333333,24.116111111,569.0,nmol mol-1,monthly,ACTRIS AMAP EMEP GAW-WDCRG,air
+7,vmrisop,CH0005R,Rigi,47.0675,8.463889,1035.0,nmol mol-1,monthly,ACTRIS EMEP GAW-WDCRG,air
+8,vmrisop,DE0054R,Zugspitze-Schneefernerhaus,47.4165,10.97964,2676.0,nmol mol-1,monthly,EMEP;EMEP GAW-WDCRG;ACTRIS GAW-WDCRG,air

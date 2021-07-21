@@ -5,4 +5,5 @@
 3,vmrc2h4,GB0036R,Harwell,51.573056,-1.316667,137.0,nmol mol-1,monthly,EMEP,air
 4,vmrc2h4,DE0043G,Hohenpeissenberg,47.8014984131,11.009619,992.0,nmol mol-1,monthly,ACTRIS EMEP GAW-WDCRG;ACTRIS EMEP GAW-WDCGG-node,air
 5,vmrc2h4,NL0009R,Kollumerwaard,53.333889,6.277222,1.0,nmol mol-1,monthly,EMEP,air
-6,vmrc2h4,FI0096G,Pallas (Sammaltunturi),67.973333333,24.116111111,569.0,nmol mol-1,monthly,ACTRIS AMAP EMEP GAW-WDCRG,air
+6,vmrc2h4,IT0009R,Mt Cimone,44.183333,10.7,2172.0,nmol mol-1,monthly,ACTRIS EMEP GAW-WDCRG,air
+7,vmrc2h4,CH0005R,Rigi,47.0675,8.463889,1035.0,nmol mol-1,monthly,ACTRIS EMEP GAW-WDCRG,air
