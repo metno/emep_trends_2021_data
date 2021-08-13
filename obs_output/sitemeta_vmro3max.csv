@@ -30,13 +30,13 @@
 28,vmro3max,DE0004R,Deuselbach,49.764722,7.051944,480.0,nmol mol-1,daily,EMEP,air
 29,vmro3max,PL0005R,Diabla Gora,54.15,22.066667,161.35,nmol mol-1,daily,EMEP,air
 30,vmro3max,FR0008R,Donon,48.5,7.133333,775.0,nmol mol-1,daily,EMEP;EMEP sel_GEOmon2.1,air
-31,vmro3max,ES0017R,Doñana,37.05194,-6.55528,35.0,nmol mol-1,daily,EMEP CAMP;CAMP EMEP_preliminary,air
+31,vmro3max,ES0017R,Doñana,37.05194,-6.55528,35.0,nmol mol-1,daily,EMEP CAMP,air
 32,vmro3max,AT0045R,Dunkelsteinerwald,48.371111,15.546667,320.0,nmol mol-1,daily,EMEP,air
 33,vmro3max,NL0007R,Eibergen,52.083333,6.566667,22.0,nmol mol-1,daily,EMEP,air
 34,vmro3max,ES0014R,Els Torms,41.39389,0.73472,470.0,nmol mol-1,daily,EMEP,air
 35,vmro3max,GB0002R,Eskdalemuir,55.313056,-3.204167,243.0,nmol mol-1,daily,EMEP,air
 36,vmro3max,SE0013R,Esrange,67.883333,21.066667,475.0,nmol mol-1,daily,EMEP,air
-37,vmro3max,BE0032R,Eupen,50.629421,6.001019,295.0,nmol mol-1,daily,EMEP;EMEP CAMP,air
+37,vmro3max,BE0032R,Eupen,50.629421,6.001019,295.0,nmol mol-1,daily,EMEP CAMP,air
 38,vmro3max,DE0047R,Falkenberg,52.166667,14.116667,73.0,nmol mol-1,daily,EMEP,air
 39,vmro3max,HU0003R,Farkasfa,46.91,16.32,314.0,nmol mol-1,daily,EMEP,air
 40,vmro3max,GR0002R,Finokalia,35.3377990723,25.6693992615,154.0,nmol mol-1,daily,EMEP;EMEP sel_GEOmon2.1,air
@@ -60,9 +60,9 @@
 58,vmro3max,NO0056R,Hurdal,60.372386,11.078142,300.0,nmol mol-1,daily,EMEP NILU,air
 59,vmro3max,AT0002R,Illmitz,47.7666664124,16.7666664124,117.0,nmol mol-1,daily,EMEP,air
 60,vmro3max,FR0012R,Iraty,43.033333,-1.083333,1300.0,nmol mol-1,daily,EMEP,air
-61,vmro3max,SI0008R,Iskrba,45.566667,14.866667,525.0,nmol mol-1,daily,EMEP GAW-WDCRG;GAW-WDCRG EMEP_preliminary,air
+61,vmro3max,SI0008R,Iskrba,45.566667,14.866667,525.0,nmol mol-1,daily,EMEP GAW-WDCRG,air
 62,vmro3max,IT0004R,Ispra,45.8,8.633333,215.5,nmol mol-1,daily,EMEP;EMEP sel_GEOmon2.1,air
-63,vmro3max,PL0002R,Jarczew,51.814408,21.972419,180.0,nmol mol-1,daily,EMEP GAW-WDCRG;GAW-WDCRG EMEP_preliminary,air
+63,vmro3max,PL0002R,Jarczew,51.814408,21.972419,180.0,nmol mol-1,daily,EMEP GAW-WDCRG,air
 64,vmro3max,NO0045R,Jeløya,59.433333,10.6,5.0,nmol mol-1,daily,EMEP NILU,air
 65,vmro3max,CH0001G,Jungfraujoch,46.5475,7.985,3578.0,nmol mol-1,daily,EMEP;EMEP GAW-WDCRG;EMEP GAW-WDCRG sel_GEOmon2.1,air
 66,vmro3max,HU0002R,K-puszta,46.966667,19.583333,128.0,nmol mol-1,daily,EMEP GAW-WDCRG;EMEP sel_GEOmon2.1,air
@@ -70,9 +70,9 @@
 68,vmro3max,NO0055R,Karasjok,69.466667,25.216667,333.0,nmol mol-1,daily,AMAP EMEP NILU,air
 69,vmro3max,DK0005R,Keldsnor,54.746495,10.73616,10.0,nmol mol-1,daily,EMEP,air
 70,vmro3max,NL0009R,Kollumerwaard,53.333889,6.277222,3.0,nmol mol-1,daily,EMEP GAW-WDCRG,air
-71,vmro3max,CZ0003R,Kosetice (NOAK),49.573394,15.080278,535.0,nmol mol-1,daily,EMEP GAW-WDCRG;ACTRIS EMEP GAW-WDCRG;GAW-WDCRG EMEP_preliminary;EMEP sel_GEOmon2.1,air
+71,vmro3max,CZ0003R,Kosetice (NOAK),49.573394,15.080278,535.0,nmol mol-1,daily,EMEP GAW-WDCRG;ACTRIS EMEP GAW-WDCRG;EMEP sel_GEOmon2.1,air
 72,vmro3max,SI0033R,Kovk,46.128611,15.113889,603.0,nmol mol-1,daily,EMEP GAW-WDCRG,air
-73,vmro3max,SI0032R,Krvavec,46.299444,14.538611,1750.0,nmol mol-1,daily,EMEP GAW-WDCRG;GAW-WDCRG EMEP_preliminary,air
+73,vmro3max,SI0032R,Krvavec,46.299444,14.538611,1750.0,nmol mol-1,daily,EMEP GAW-WDCRG,air
 74,vmro3max,NO0039R,Kårvatn,62.783333,8.883333,210.0,nmol mol-1,daily,EMEP NILU,air
 75,vmro3max,FR0018R,La Coulonche,48.633333,-0.45,309.0,nmol mol-1,daily,EMEP,air
 76,vmro3max,FR0015R,La Tardière,46.65,-0.75,137.0,nmol mol-1,daily,EMEP,air
@@ -81,7 +81,7 @@
 79,vmro3max,IT0018R,Lampedusa,35.5182,12.6305,49.0,nmol mol-1,daily,EMEP GAW-WDCRG,air
 80,vmro3max,MK0007R,Lazaropole,41.536111,20.69389,1332.0,nmol mol-1,daily,EMEP,air
 81,vmro3max,FR0016R,Le Casset,45.0,6.466667,1750.0,nmol mol-1,daily,EMEP,air
-82,vmro3max,PL0004R,Leba,54.753894,17.534264,2.0,nmol mol-1,daily,EMEP GAW-WDCRG HELCOM;GAW-WDCRG HELCOM EMEP_preliminary,air
+82,vmro3max,PL0004R,Leba,54.753894,17.534264,2.0,nmol mol-1,daily,EMEP GAW-WDCRG HELCOM,air
 83,vmro3max,GB0052R,Lerwick,60.13922,-1.185319,85.0,nmol mol-1,daily,EMEP,air
 84,vmro3max,SK0005R,Liesek,49.366667,19.683333,892.0,nmol mol-1,daily,EMEP,air
 85,vmro3max,DK0041R,Lille Valby,55.686944,12.126111,10.0,nmol mol-1,daily,EMEP,air
@@ -103,15 +103,15 @@
 101,vmro3max,IT0009R,Mt Cimone,44.183333,10.7,2172.0,nmol mol-1,daily,ACTRIS EMEP GAW-WDCRG,air
 102,vmro3max,GB0043R,Narberth,51.781784,-4.691462,160.0,nmol mol-1,daily,EMEP,air
 103,vmro3max,DE0007R,Neuglobsow,53.166667,13.033333,68.2,nmol mol-1,daily,EMEP;EMEP sel_GEOmon2.1,air
-104,vmro3max,ES0008R,Niembro,43.43917,-4.85,134.0,nmol mol-1,daily,CAMP EMEP;CAMP EMEP_preliminary,air
-105,vmro3max,ES0005R,Noia,42.72056,-8.92361,683.0,nmol mol-1,daily,CAMP EMEP;CAMP EMEP_preliminary,air
+104,vmro3max,ES0008R,Niembro,43.43917,-4.85,134.0,nmol mol-1,daily,CAMP EMEP,air
+105,vmro3max,ES0005R,Noia,42.72056,-8.92361,683.0,nmol mol-1,daily,CAMP EMEP,air
 106,vmro3max,SE0032R,Norra-Kvill,57.816667,15.566667,261.0,nmol mol-1,daily,EMEP,air
 107,vmro3max,SE0022R,Norunda Stenen,60.0858,17.50528,45.0,nmol mol-1,daily,EMEP,air
 108,vmro3max,ES0016R,O Saviñao,42.63472,-7.70472,506.0,nmol mol-1,daily,EMEP,air
-109,vmro3max,BE0001R,Offagne,49.877778,5.203611,430.0,nmol mol-1,daily,EMEP;EMEP CAMP,air
+109,vmro3max,BE0001R,Offagne,49.877778,5.203611,430.0,nmol mol-1,daily,EMEP CAMP,air
 110,vmro3max,NO0041R,Osen,61.25,11.783333,440.0,nmol mol-1,daily,EMEP NILU,air
-111,vmro3max,FI0022R,Oulanka,66.320278,29.401667,310.0,nmol mol-1,daily,EMEP,air
-112,vmro3max,FI0096G,Pallas (Sammaltunturi),67.973333333,24.116111111,569.0,nmol mol-1,daily,ACTRIS AMAP EMEP GAW-WDCRG;ACTRIS AMAP EMEP_preliminary GAW-WDCRG,air
+111,vmro3max,FI0022R,Oulanka,66.320278,29.401667,315.0,nmol mol-1,daily,EMEP,air
+112,vmro3max,FI0096G,Pallas (Sammaltunturi),67.973333333,24.116111111,569.0,nmol mol-1,daily,ACTRIS AMAP EMEP GAW-WDCRG,air
 113,vmro3max,CH0002R,Payerne,46.813056,6.944722,489.0,nmol mol-1,daily,EMEP;EMEP GAW-WDCRG,air
 114,vmro3max,ES0013R,Penausende,41.23889,-5.8975,985.0,nmol mol-1,daily,EMEP,air
 115,vmro3max,FR0013R,Peyrusse Vieille,43.616667,0.183333,204.0,nmol mol-1,daily,EMEP,air
@@ -128,7 +128,7 @@
 126,vmro3max,DK0012R,Risoe,55.693588,12.085797,3.0,nmol mol-1,daily,EMEP,air
 127,vmro3max,BG0053R,Rojen peak,41.695833,24.738611,1750.0,nmol mol-1,daily,EMEP,air
 128,vmro3max,ES0003R,Roquetas,40.820556,0.491389,44.0,nmol mol-1,daily,EMEP sel_GEOmon2.1,air
-129,vmro3max,LV0010R,Rucava,56.161944,21.173056,18.0,nmol mol-1,daily,GAW-WDCRG EMEP_preliminary;EMEP GAW-WDCRG;HELCOM EMEP;EMEP HELCOM,air
+129,vmro3max,LV0010R,Rucava,56.161944,21.173056,18.0,nmol mol-1,daily,EMEP GAW-WDCRG;HELCOM EMEP;EMEP HELCOM,air
 130,vmro3max,SE0014R;SE0002R,Råö,57.394,11.914,5.0,nmol mol-1,daily,EMEP;EMEP CAMP,air
 131,vmro3max,FR0020R,SIRTA Atmospheric Research Observatory,48.7086111111,2.15888888889,165.0,nmol mol-1,daily,ACTRIS EMEP,air
 132,vmro3max,FR0023R,Saint-Nazaire-le-Désert,44.569444444,5.278972222,605.0,nmol mol-1,daily,EMEP,air
@@ -140,9 +140,9 @@
 138,vmro3max,RO0003R,Semenic,45.116667,25.966667,1432.0,nmol mol-1,daily,EMEP,air
 139,vmro3max,RU0016R,Shepeljovo,59.966667,29.116667,4.0,nmol mol-1,daily,EMEP,air
 140,vmro3max,GB0039R,Sibton,52.293889,1.463056,46.0,nmol mol-1,daily,EMEP,air
-141,vmro3max,PL0003R,Sniezka,50.736444,15.7395,1603.0,nmol mol-1,daily,EMEP GAW-WDCRG;GAW-WDCRG EMEP_preliminary,air
+141,vmro3max,PL0003R,Sniezka,50.736444,15.7395,1603.0,nmol mol-1,daily,EMEP GAW-WDCRG,air
 142,vmro3max,GB0044R,Somerton,51.231111,-3.048056,55.0,nmol mol-1,daily,EMEP,air
-143,vmro3max,AT0034G,Sonnblick,47.05407,12.95794,3116.0,nmol mol-1,daily,EMEP GAW-WDCRG;GAW-WDCRG EMEP;EMEP_preliminary GAW-WDCRG;GAW-WDCRG EMEP_preliminary,air
+143,vmro3max,AT0034G,Sonnblick,47.05407,12.95794,3116.0,nmol mol-1,daily,EMEP GAW-WDCRG,air
 144,vmro3max,AT0004R,St. Koloman,47.65,13.2,851.0,nmol mol-1,daily,EMEP,air
 145,vmro3max,GB0050R,St. Osyth,51.778056,1.08223,8.0,nmol mol-1,daily,EMEP,air
 146,vmro3max,SK0006R,Starina,49.05,22.266667,345.0,nmol mol-1,daily,EMEP,air
@@ -157,14 +157,14 @@
 155,vmro3max,CH0003R,Tänikon,47.479722,8.904722,539.0,nmol mol-1,daily,EMEP,air
 156,vmro3max,DE0026R,Ueckermünde,53.75,14.066667,1.0,nmol mol-1,daily,EMEP,air
 157,vmro3max,DK0031R,Ulborg,56.290424,8.427486,10.0,nmol mol-1,daily,EMEP,air
-158,vmro3max,FI0009R,Utö,59.779167,21.377222,7.0,nmol mol-1,daily,EMEP;EMEP HELCOM,air
+158,vmro3max,FI0009R,Utö,59.779167,21.377222,12.0,nmol mol-1,daily,EMEP;EMEP HELCOM,air
 159,vmro3max,IE0001R,Valentia Observatory,51.939722,-10.244444,11.0,nmol mol-1,daily,EMEP,air
 160,vmro3max,FR0025R,Verneuil,46.814727778,2.610008333,182.0,nmol mol-1,daily,EMEP,air
-161,vmro3max,BE0035R,Vezin,50.503333,4.989444,160.0,nmol mol-1,daily,EMEP;EMEP CAMP,air
+161,vmro3max,BE0035R,Vezin,50.503333,4.989444,160.0,nmol mol-1,daily,EMEP CAMP,air
 162,vmro3max,DK0010G,"Villum Research Station, Station Nord",81.6,-16.67,20.0,nmol mol-1,daily,EMEP GAW-WDCRG CAMP;AMAP EMEP GAW-WDCRG CAMP,air
 163,vmro3max,EE0011R,Vilsandi,58.383333,21.816667,6.0,nmol mol-1,daily,EMEP HELCOM;EMEP HELCOM_preliminary,air
 164,vmro3max,SE0035R,Vindeln,64.25,19.766667,225.0,nmol mol-1,daily,EMEP,air
-165,vmro3max,FI0018R;FI0017R,Virolahti III,60.53002,27.66754,9.0,nmol mol-1,daily,EMEP_preliminary HELCOM;EMEP HELCOM,air
+165,vmro3max,FI0018R;FI0017R,Virolahti III,60.53002,27.66754,9.0,nmol mol-1,daily,EMEP HELCOM,air
 166,vmro3max,AT0005R,Vorhegg,46.677778,12.972222,1020.0,nmol mol-1,daily,EMEP,air
 167,vmro3max,NO0048R,Voss,60.6,6.533333,500.0,nmol mol-1,daily,EMEP NILU,air
 168,vmro3max,NL0010R,Vredepeel,51.541111,5.853611,30.0,nmol mol-1,daily,EMEP,air
@@ -180,8 +180,8 @@
 178,vmro3max,AT0037R,Zillertaler Alpen,47.136944,11.87,1970.0,nmol mol-1,daily,EMEP,air
 179,vmro3max,DE0009R,Zingst,54.4368,12.7249,9.0,nmol mol-1,daily,EMEP;EMEP sel_GEOmon2.1,air
 180,vmro3max,AT0048R,Zoebelboden,47.838611,14.441389,899.0,nmol mol-1,daily,EMEP,air
-181,vmro3max,LV0016R,Zoseni,57.135278,25.905556,188.0,nmol mol-1,daily,GAW-WDCRG EMEP_preliminary;EMEP GAW-WDCRG,air
-182,vmro3max,DE0054R,Zugspitze-Schneefernerhaus,47.4165,10.97964,2671.0,nmol mol-1,daily,GAW-WDCRG EMEP_preliminary;EMEP GAW-WDCRG,air
+181,vmro3max,LV0016R,Zoseni,57.135278,25.905556,188.0,nmol mol-1,daily,EMEP GAW-WDCRG,air
+182,vmro3max,DE0054R,Zugspitze-Schneefernerhaus,47.4165,10.97964,2671.0,nmol mol-1,daily,EMEP GAW-WDCRG,air
 183,vmro3max,FI0037R,Ähtäri II,62.583333,24.183333,180.0,nmol mol-1,daily,EMEP,air
 184,vmro3max,DE0042R,Öhringen,49.243333,9.447222,283.0,nmol mol-1,daily,EMEP,air
 185,vmro3max,SE0019R,Östad,57.9525,12.403,65.0,nmol mol-1,daily,EMEP,air

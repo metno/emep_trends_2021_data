@@ -12,7 +12,7 @@
 10,concsspm25,IT0001R,Montelibretti,42.1,12.633333,48.0,ug m-3,monthly,CAMPAIGN EMEP,pm25
 11,concsspm25,ES1778R,Montseny,41.766667,2.35,702.0,ug m-3,monthly,ACTRIS EMEP GAW-WDCA;EMEP EUSAAR GAW-WDCA,pm25
 12,concsspm25,FI0036R,Pallas (Matorova),68.0,24.237222222,340.0,ug m-3,monthly,EMEP,pm25
-13,concsspm25,LV0010R,Rucava,56.161944,21.173056,21.0,ug m-3,monthly,EMEP GAW-WDCA;GAW-WDCA EMEP_preliminary,pm25
+13,concsspm25,LV0010R,Rucava,56.161944,21.173056,21.0,ug m-3,monthly,EMEP GAW-WDCA,pm25
 14,concsspm25,FI0009R,Utö,59.779167,21.377222,7.0,ug m-3,monthly,EMEP,pm25
 15,concsspm25,FI0017R,Virolahti III,60.526667,27.686111,4.0,ug m-3,monthly,EMEP;CAMPAIGN EMEP,pm25
 16,concsspm25,PL0009R,Zielonka,53.662117,17.934017,123.0,ug m-3,monthly,EMEP,pm25
